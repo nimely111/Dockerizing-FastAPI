@@ -1,5 +1,5 @@
 # 1. create the base environment
-FROM python:3.12-slim
+FROM python:3.12.4
 
 # 2. set up a working directory
 WORKDIR /app
